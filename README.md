@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**d-ribeiro-dev/d-ribeiro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ <img
+src="https://raw.githubusercontent.com/d-ribeiro-dev/readme-github/refs/heads/main/assets/arcade-code-chase.gif" alt="Banner animado" width="100%">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👾 Oiê, eu sou Dinara!
+
+### PLAYER 01 · curiosidade alta · criatividade ligada · capricho no máximo!
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-meus%20projetos-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.dribeiro.com/d-ribeiro-dev)
+![Contato](https://img.shields.io/badge/CONTATO-bora%20trocar%20ideias-7c3aed?style=for-the-badge)
+
+</div>
+
+---
+
+## 🕹️ Quem está jogando?
+
+Sou curiosa por natureza, criativa nas ideias e gosto de fazer as coisas com capricho. Curto aprender, explorar possibilidades e transformar boas ideias em algo real — de preferência com personalidade.
+
+## 🚀 Fase atual
+
+- **Aprendendo:** [Python]
+- **Construindo:** [...]
+- **Próxima missão:** [...]
+
+
+
+
