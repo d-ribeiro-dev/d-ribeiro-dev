@@ -1,44 +1,53 @@
+# 👋 Olá, eu sou Dinara!
 
+**Tecnologia, criatividade e aprendizado na prática.**
+
+<!-- BANNER PRINCIPAL -->
 <div align="center">
- <img
-src="https://raw.githubusercontent.com/d-ribeiro-dev/readme-github/refs/heads/main/assets/arcade-code-chase.gif" alt="Banner animado" width="100%">
-
-
-# 👾 Oiê, eu sou Dinara!
-
-### PLAYER 01 · curiosidade alta · criatividade ligada · capricho no máximo!
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-meus%20projetos-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.dribeiro.com/d-ribeiro-dev)
-![Contato](https://img.shields.io/badge/CONTATO-bora%20trocar%20ideias-7c3aed?style=for-the-badge)
-
+  <img src="assets/banner-capa.gif" alt="Banner de tecnologia" width="100%">
 </div>
 
 ---
 
-## 🕹️ Quem está jogando?
+## ✨ Sobre mim
 
-Sou curiosa por natureza, criativa nas ideias e gosto de fazer as coisas com capricho. Curto aprender, explorar possibilidades e transformar boas ideias em algo real — de preferência com personalidade.
+Sou curiosa por natureza e gosto de aprender construindo. Estou desenvolvendo meus conhecimentos em programação, desenvolvimento web e inteligência artificial, transformando ideias em experiências e projetos práticos.
 
-## 🚀 Fase atual
+Acredito que a tecnologia ganha ainda mais valor quando ajuda a resolver problemas reais.
 
-- **Aprendendo:** [Python]
-- **Construindo:** [...]
-- **Próxima missão:** [...]
+## 🧠 Áreas de interesse
 
+- 💻 **Programação:** lógica, Python e desenvolvimento web.
+- 🤖 **Inteligência Artificial:** exploração de ferramentas, assistentes e aplicações de IA.
+- ⚙️ **Automações:** pequenas soluções para simplificar tarefas e processos.
+- 🌐 **Desenvolvimento:** criação de páginas, interfaces e projetos digitais.
 
+## 📚 Estudos e aprendizado
 
+Estou em constante aprendizado, explorando novas ferramentas e colocando o conhecimento em prática por meio de pequenos projetos.
 
+## 🚀 Projetos
 
+Aqui compartilho experiências, estudos e projetos que desenvolvo durante minha jornada na tecnologia.
 
-<!-- CALENDARIO-VIVO:INICIO -->
-
-## 🎉 Especial de Dia de Finados
+## 🔗 Encontre meus projetos
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/d-ribeiro-dev/calendario-vivo-github/main/banners/finados/finados.png" alt="Banner de Dia de Finados" width="100%">
+[![GitHub](https://img.shields.io/badge/GitHub-Meus%20repositórios-181717?style=for-the-badge&logo=github)](https://github.com/d-ribeiro-dev)
+
+[![Calendário Vivo](https://img.shields.io/badge/Calendário%20Vivo-Explorar%20projeto-6C63FF?style=for-the-badge&logo=github)](https://github.com/d-ribeiro-dev/calendario-vivo-github)
 
 </div>
 
+## 💬 Vamos trocar ideias?
+
+Gosto de aprender, compartilhar descobertas e conhecer pessoas que também gostam de criar com tecnologia.
+
+---
+
+<!-- CALENDARIO-VIVO:INICIO -->
+
 <!-- CALENDARIO-VIVO:FIM -->
+
+[Conheça o projeto Calendário Vivo do GitHub](https://github.com/d-ribeiro-dev/calendario-vivo-github)
