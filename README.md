@@ -32,7 +32,13 @@ Sou curiosa por natureza, criativa nas ideias e gosto de fazer as coisas com cap
 
 
 <!-- CALENDARIO-VIVO:INICIO -->
-## 🎃 Especial de Halloween
 
-![Halloween](https://raw.githubusercontent.com/d-ribeiro-dev/calendario-vivo-github/main/banners/halloween/halloween-animation.gif)
+## 🎉 Especial de Dia de Finados
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/d-ribeiro-dev/calendario-vivo-github/main/banners/finados/finados.png" alt="Banner de Dia de Finados" width="100%">
+
+</div>
+
 <!-- CALENDARIO-VIVO:FIM -->
