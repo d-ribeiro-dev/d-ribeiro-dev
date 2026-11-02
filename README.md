@@ -48,6 +48,14 @@ Gosto de aprender, compartilhar descobertas e conhecer pessoas que também gosta
 
 <!-- CALENDARIO-VIVO:INICIO -->
 
+## 🎉 Especial de Dia de Finados
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/d-ribeiro-dev/calendario-vivo-github/main/banners/finados/finados.png" alt="Banner de Dia de Finados" width="100%">
+
+</div>
+
 <!-- CALENDARIO-VIVO:FIM -->
 
 [Conheça o projeto Calendário Vivo do GitHub](https://github.com/d-ribeiro-dev/calendario-vivo-github)
