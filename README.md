@@ -30,15 +30,13 @@ Estou em constante aprendizado, explorando novas ferramentas e colocando o conhe
 
 Aqui compartilho experiências, estudos e projetos que desenvolvo durante minha jornada na tecnologia.
 
-## 🔗 Encontre meus projetos
+## 🚀 Projetos em destaque
 
-<div align="center">
+- 📅 **[Calendário Vivo](https://github.com/d-ribeiro-dev/calendario-vivo-github)**  
+  Automação, GitHub Actions e conteúdo dinâmico. Um projeto independente que transforma datas e acontecimentos em experiências visuais.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Meus%20repositórios-181717?style=for-the-badge&logo=github)](https://github.com/d-ribeiro-dev)
-
-[![Calendário Vivo](https://img.shields.io/badge/Calendário%20Vivo-Explorar%20projeto-6C63FF?style=for-the-badge&logo=github)](https://github.com/d-ribeiro-dev/calendario-vivo-github)
-
-</div>
+- 🧪 **[Laboratório Criativo](https://github.com/d-ribeiro-dev/laboratorio-criativo)**  
+  Projetos práticos, experimentos, estudos e documentação — um espaço para explorar ideias e acompanhar minha evolução em tecnologia.
 
 ## 💬 Vamos trocar ideias?
 
