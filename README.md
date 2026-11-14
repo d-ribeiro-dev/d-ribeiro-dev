@@ -61,14 +61,4 @@ Gosto de aprender, compartilhar descobertas e conhecer pessoas que também gosta
 
 ---
 
-<!-- CALENDARIO-VIVO:INICIO -->
-
-## 🎉 Especial de Sexta-feira 13
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/d-ribeiro-dev/calendario-vivo-github/main/banners/Sexta-feira-13.png" alt="Banner de Sexta-feira 13" width="100%">
-
-</div>
-
-<!-- CALENDARIO-VIVO:FIM -->
+<!-- CALENDARIO-VIVO:INICIO --><!-- CALENDARIO-VIVO:FIM -->
