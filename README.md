@@ -61,14 +61,4 @@ Gosto de aprender, compartilhar descobertas e conhecer pessoas que também gosta
 
 ---
 
-<!-- CALENDARIO-VIVO:INICIO -->
-
-## 🎉 Especial de Proclamação da República
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/d-ribeiro-dev/calendario-vivo-github/main/banners/proclamacao-republica.png" alt="Banner de Proclamação da República" width="100%">
-
-</div>
-
-<!-- CALENDARIO-VIVO:FIM -->
+<!-- CALENDARIO-VIVO:INICIO --><!-- CALENDARIO-VIVO:FIM -->
