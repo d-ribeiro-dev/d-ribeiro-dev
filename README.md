@@ -61,4 +61,14 @@ Gosto de aprender, compartilhar descobertas e conhecer pessoas que também gosta
 
 ---
 
-<!-- CALENDARIO-VIVO:INICIO --><!-- CALENDARIO-VIVO:FIM -->
+<!-- CALENDARIO-VIVO:INICIO -->
+
+## 🎉 Especial de Dia Nacional de Zumbi e da Consciência Negra
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/d-ribeiro-dev/calendario-vivo-github/main/banners/consciencia-negra.png" alt="Banner de Dia Nacional de Zumbi e da Consciência Negra" width="100%">
+
+</div>
+
+<!-- CALENDARIO-VIVO:FIM -->
