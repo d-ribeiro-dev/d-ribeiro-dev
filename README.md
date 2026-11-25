@@ -85,4 +85,14 @@ Gosto de compartilhar descobertas, aprender com outras pessoas e colaborar em pr
 
 ---
 
-<!-- CALENDARIO-VIVO:INICIO --><!-- CALENDARIO-VIVO:FIM -->
+<!-- CALENDARIO-VIVO:INICIO -->
+
+## 🎉 Especial de Dia Internacional pela Eliminação da Violência contra as Mulheres
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/d-ribeiro-dev/calendario-vivo-github/main/banners/violencia-mulher.png" alt="Banner de Dia Internacional pela Eliminação da Violência contra as Mulheres" width="100%">
+
+</div>
+
+<!-- CALENDARIO-VIVO:FIM -->
