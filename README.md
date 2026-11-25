@@ -1,64 +1,90 @@
 # 👋 Olá, eu sou Dinara!
 
-**Tecnologia, inteligência artificial e criatividade na prática.**
-
-<!-- BANNER PRINCIPAL -->
 <div align="center">
   <img src="assets/banner-capa.gif" alt="Banner de tecnologia" width="100%">
+</div>
+
+<div align="center">
+
+**Tecnologia, criatividade e aprendizado na prática.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinara-ribeiro)
+[![GitHub](https://img.shields.io/badge/GitHub-Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/d-ribeiro-dev)
+
 </div>
 
 ---
 
 ## ✨ Sobre mim
 
-Sou curiosa por natureza e gosto de aprender construindo. Estou desenvolvendo minha trajetória na tecnologia, explorando programação, inteligência artificial, desenvolvimento web, dados e automações.
+Sou curiosa por natureza e gosto de aprender construindo.
 
-Gosto de transformar ideias em projetos reais, experimentar ferramentas, investigar problemas e documentar o que aprendo pelo caminho.
+Estudo programação, inteligência artificial, análise de dados e automações, transformando ideias em projetos reais. Gosto de investigar problemas, testar possibilidades e compreender como as tecnologias funcionam.
 
-Acredito na combinação entre criatividade, pensamento analítico e tecnologia para desenvolver soluções úteis.
+Acredito que criatividade, pensamento crítico e aprendizado contínuo são fundamentais para desenvolver boas soluções.
 
-## 🧠 Áreas de interesse
+## 🛠️ Tecnologias e ferramentas
 
-- 🤖 **Inteligência Artificial:** IA generativa, agentes, engenharia de prompts e colaboração humano–IA.
-- 💻 **Programação e desenvolvimento web:** Python, lógica de programação, HTML, CSS e JavaScript.
-- 📊 **Dados e análise:** tratamento de dados, Excel, Pandas, relatórios e visualização de informações.
-- ⚙️ **Automações:** Python, GitHub Actions e integração de ferramentas para simplificar processos.
-- 🎨 **Tecnologia criativa:** experiências digitais, narrativas, projetos visuais e criação com IA.
+<div align="center">
 
-## 📚 Estudos e aprendizado
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-Estou em constante evolução, combinando cursos, estudos independentes e experimentação prática.
+</div>
 
-Atualmente, mantenho uma jornada de estudos em Python baseada no desafio **30 Days of Python**, de Asabeneh Yetayeh, com exercícios, registros e soluções próprias.
-
-**[Acompanhar meus estudos de Python](https://github.com/d-ribeiro-dev/30-Days-Of-Python)**
-
-Meu foco é desenvolver autonomia técnica e transformar conhecimento em projetos que possam ser testados, documentados e compartilhados.
+---
 
 ## 🚀 Projetos em destaque
 
 ### 📊 Porsche Sales Dashboard
 
-Dashboard interativa desenvolvida para um desafio da DIO, com análise de dados, filtros combináveis, indicadores e visualizações. Inclui tratamento da base e documentação das limitações dos dados.
+Dashboard interativa para análise de registros de vendas, com indicadores, filtros e visualizações. Inclui auditoria e tratamento de inconsistências na base de dados.
 
-**[Ver projeto no GitHub](https://github.com/d-ribeiro-dev/porsche-sales-dashboard)**
+[![Explorar projeto](https://img.shields.io/badge/Explorar_projeto-181717?style=flat-square&logo=github)](https://github.com/d-ribeiro-dev/porsche-sales-dashboard)
 
-### 🧪 Laboratório Criativo
+### 🎨 Laboratório Criativo
 
-Espaço de experimentação em programação, inteligência artificial e criatividade. Reúne projetos práticos, uma mini HQ desenvolvida com colaboração humano–IA, estudos de caso e documentação de processos.
+Um espaço onde programação, inteligência artificial e criatividade se transformam em experiências práticas.
 
-**[Visitar o Laboratório Criativo](https://d-ribeiro-dev.github.io/laboratorio-criativo/)**
+- 🎮 **Grand Theft Family:** mini HQ digital e interativa.
+- 🏢 **Paitech:** empresa fictícia utilizada em experiências de aprendizagem e simulação de atividades profissionais.
+
+[![Visitar laboratório](https://img.shields.io/badge/Visitar_laboratório-8B5CF6?style=flat-square)](https://d-ribeiro-dev.github.io/laboratorio-criativo/)
+
+### 🤖 Desktop Pet
+
+Um companheiro virtual para a área de trabalho, desenvolvido em Python com Tkinter. Explora animação, interatividade e recursos de produtividade.
+
+[![Explorar projeto](https://img.shields.io/badge/Explorar_projeto-181717?style=flat-square&logo=github)](https://github.com/d-ribeiro-dev/desktop-pet)
 
 ### 📅 Calendário Vivo
 
-Projeto de automação com GitHub Actions, que organiza datas comemorativas e atualiza conteúdos visuais para perfis do GitHub.
+Automação com GitHub Actions para atualizar conteúdos visuais relacionados a datas comemorativas.
 
-**[Ver projeto no GitHub](https://github.com/d-ribeiro-dev/calendario-vivo-github)**
-
-## 💬 Vamos trocar ideias?
-
-Gosto de aprender, compartilhar descobertas e conhecer pessoas que também gostam de explorar possibilidades com tecnologia.
+[![Explorar projeto](https://img.shields.io/badge/Explorar_projeto-181717?style=flat-square&logo=github)](https://github.com/d-ribeiro-dev/calendario-vivo-github)
 
 ---
 
-<!-- CALENDARIO-VIVO:INICIO --><!-- CALENDARIO-VIVO:FIM -->
+## 💬 Vamos trocar ideias?
+
+Gosto de compartilhar descobertas, aprender com outras pessoas e colaborar em projetos que transformam ideias em soluções.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dinara_Ribeiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinara-ribeiro)
+
+*Aprender, experimentar, construir e evoluir.*
+
+</div>
+
+---
+
+<!-- CALENDARIO-VIVO:INICIO -->
+
+<!-- CALENDARIO-VIVO:FIM -->
