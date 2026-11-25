@@ -85,6 +85,4 @@ Gosto de compartilhar descobertas, aprender com outras pessoas e colaborar em pr
 
 ---
 
-<!-- CALENDARIO-VIVO:INICIO -->
-
-<!-- CALENDARIO-VIVO:FIM -->
+<!-- CALENDARIO-VIVO:INICIO --><!-- CALENDARIO-VIVO:FIM -->
